@@ -1,0 +1,10 @@
+c:\users\kingdommaster9\documents\visual studio 2015\Projects\Sokoban\Sokoban\bin\Debug\Sokoban.exe.config
+c:\users\kingdommaster9\documents\visual studio 2015\Projects\Sokoban\Sokoban\obj\Debug\Sokoban.csprojResolveAssemblyReference.cache
+c:\users\kingdommaster9\documents\visual studio 2015\Projects\Sokoban\Sokoban\obj\Debug\Sokoban.Properties.Resources.resources
+c:\users\kingdommaster9\documents\visual studio 2015\Projects\Sokoban\Sokoban\obj\Debug\Sokoban.csproj.GenerateResource.Cache
+c:\users\kingdommaster9\documents\visual studio 2015\Projects\Sokoban\Sokoban\bin\Debug\Sokoban.exe
+c:\users\kingdommaster9\documents\visual studio 2015\Projects\Sokoban\Sokoban\bin\Debug\Sokoban.pdb
+c:\users\kingdommaster9\documents\visual studio 2015\Projects\Sokoban\Sokoban\obj\Debug\Sokoban.exe
+c:\users\kingdommaster9\documents\visual studio 2015\Projects\Sokoban\Sokoban\obj\Debug\Sokoban.pdb
+C:\Users\Kingdommaster9\Documents\Visual Studio 2015\Projects\Sokoban\Sokoban\obj\Debug\Sokoban.Engine.resources
+C:\Users\Kingdommaster9\Documents\Visual Studio 2015\Projects\Sokoban\Sokoban\obj\Debug\Sokoban.Program.resources
